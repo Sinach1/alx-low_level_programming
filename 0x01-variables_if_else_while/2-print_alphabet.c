@@ -4,7 +4,7 @@
  * Description: 'print alphabets lowercase'
  * Return: Always 0
  */
-int main (void)
+int main(void)
 {
 	int n = 97;
 

@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - entry point
- * description: 'prints all possible combinations of two two-digit numbers'
- * return: always 0
+ * Description: 'prints all possible combinations of two two-digit numbers'
+ * Return: always 0
  */
 int main(void)
 {
